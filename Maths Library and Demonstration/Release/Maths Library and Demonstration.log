@@ -1,0 +1,20 @@
+﻿Build started 17-Apr-16 7:16:51 PM.
+     1>Project "E:\Maths Library and Demonstration\Maths Library and Demonstration\Maths Library and Demonstration.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "..\..\Assignment 2 - Maths library\Assignment 2 - Maths library\Matrix.cpp" "..\..\Assignment 2 - Maths library\Assignment 2 - Maths library\Vector.cpp"
+         Matrix.cpp
+         Vector.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Maths Library and Demonstration\Release\Maths Library and Demonstration.exe" /NOLOGO alleg.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Maths Library and Demonstration\Release\Maths Library and Demonstration.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Maths Library and Demonstration\Release\Maths Library and Demonstration.lib" /MACHINE:X86 /SAFESEH Release\Matrix.obj
+         Release\Vector.obj
+         Release\AllegroInit.obj
+         Release\Cube.obj
+         Release\Demonstration.obj
+         Generating code
+         Finished generating code
+         Maths Library and Demonstration.vcxproj -> E:\Maths Library and Demonstration\Release\Maths Library and Demonstration.exe
+     1>Done Building Project "E:\Maths Library and Demonstration\Maths Library and Demonstration\Maths Library and Demonstration.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.69
